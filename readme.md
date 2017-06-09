@@ -1,3 +1,3 @@
-## Okapi
+## Swappy
 
-A Kivy game inspired by the great Rodent's Revenge.
+A Kivy port of my first-ever-pygame game Swappy.
